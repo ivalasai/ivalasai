@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building open-source, reproducible data pipelines and local LLM simulation harnesses to study algorithmic search architectures and firm-level AI adaptation.<br>👯 I’m looking to collaborate on computational strategy research that bridges the Behavioral Theory of the Firm with large-scale corporate disclosure datasets.<br>🤝 I’m looking for help with human classifier validation protocols for parsing unstructured SEC textual corpora.<br>🌱 I’m currently learning optimized deployment strategies for local open-source LLMs using Ollama configurations.<br>💬 Ask me about strategic management, organizational attention frameworks, and text-embedding methodologies in social science.<br>⚡ Fun fact: My morning routine relies heavily on a targeted combination of botanical and mushroom powders mixed into hot tea or banana milkshakes to lock in concentration.
+🔭 I’m currently working on building open-source, reproducible data pipelines and local LLM simulation harnesses to study algorithmic search architectures and firm-level AI adaptation.<br>👯 I’m looking to collaborate on computational strategy research that bridges the Behavioral Theory of the Firm with large-scale corporate disclosure datasets.<br>🤝 I’m looking for help with human classifier validation protocols for parsing unstructured SEC textual corpora.<br>🌱 I’m currently learning optimized deployment strategies for local open-source LLMs using Ollama configurations.<br>💬 Ask me about strategic management, organizational attention frameworks, and text-embedding methodologies in social science.<br>⚡ Fun fact: My morning routine relies heavily on a hot tea or black coffee to lock in concentration.
 
 
 ## 🌐 Socials:
@@ -15,7 +15,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ivalasai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=ivalasai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
